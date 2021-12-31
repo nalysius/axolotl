@@ -8,12 +8,10 @@ require (
 	github.com/dustin/go-humanize v1.0.0
 	github.com/emersion/go-vcard v0.0.0-20210521075357-3445b9171995
 	github.com/gen2brain/beeep v0.0.0-20200526185328-e9c15c258e28
-	github.com/go-sql-driver/mysql v1.5.0 // indirect
 	github.com/gopherjs/gopherjs v0.0.0-20200217142428-fce0ec30dd00 // indirect
 	github.com/gorilla/websocket v1.4.2
-	github.com/jmoiron/sqlx v1.2.0
+	github.com/jmoiron/sqlx v1.3.4
 	github.com/lib/pq v1.8.0 // indirect
-	github.com/mattn/go-sqlite3 v1.14.0 // indirect
 	github.com/mutecomm/go-sqlcipher v0.0.0-20190227152316-55dbde17881f
 	github.com/pkg/errors v0.9.1
 	github.com/signal-golang/textsecure v1.6.0
